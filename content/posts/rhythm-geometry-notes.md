@@ -1,7 +1,6 @@
 ---
 title: "Test"
 date: 2026-04-15T16:30:00+08:00
-draft: true
 ---
 
 
