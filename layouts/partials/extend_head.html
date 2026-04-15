@@ -1,0 +1,125 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+    :root {
+        --default-size: 15.5px;
+        --base-font-size: 15.5px;  
+        --content-max-width: 950px; 
+    }
+
+    .main, .post-content, .post-header, .post-footer, .comments {
+        max-width: var(--content-max-width) !important;
+    }
+
+    body {
+        font-family: 'Noto Serif SC', serif !important;
+        font-size: var(--base-font-size) !important;
+        letter-spacing: 0.03em;
+        line-height: 1.75 !important;
+        opacity: 0.92;
+        transition: font-size 0.15s ease-out;
+    }
+
+    /* 阅读控制面板：半透明存在，悬停清晰 */
+    #reading-settings {
+        position: fixed;
+        bottom: 30px;  
+        right: 30px; 
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 8px 15px;
+        background: rgba(var(--bg-rgb, 128, 128, 128), 0.08); /* 背景稍微加深一点点 */
+        border-radius: 20px;
+        backdrop-filter: blur(4px);
+        opacity: 0.45; /* 提高基础透明度，让它隐约可见 */
+        transition: all 0.3s ease;
+        border: 1px solid rgba(128, 128, 128, 0.15);
+    }
+    
+    #reading-settings:hover {
+        opacity: 1; /* 鼠标悬停时完全不透明 */
+        background: rgba(128, 128, 128, 0.15);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+
+    .size-label {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 11px;
+        user-select: none;
+        pointer-events: none;
+    }
+
+    .size-slider {
+        -webkit-appearance: none;
+        width: 60px;
+        height: 2px;
+        background: rgba(128, 128, 128, 0.4);
+        outline: none;
+    }
+
+    .size-slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #888;
+        cursor: pointer;
+    }
+
+    /* 归零按钮样式 */
+    #reset-font {
+        background: none;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        font-size: 14px;
+        color: #888;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: transform 0.2s ease;
+    }
+
+    #reset-font:hover {
+        transform: rotate(-45deg);
+        color: #555;
+    }
+</style>
+
+<div id="reading-settings">
+    <span class="size-label">A-</span>
+    <input type="range" id="font-slider" class="size-slider" min="12" max="22" step="0.5" value="15.5">
+    <span class="size-label">A+</span>
+    <button id="reset-font" title="恢复默认字号">↺</button>
+</div>
+
+<script>
+    // 初始化 KaTeX
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [{left: "$$", right: "$$", display: true}, {left: "$", right: "$", display: false}],
+            throwOnError : false
+        });
+    });
+
+    const fontSlider = document.getElementById('font-slider');
+    const resetBtn = document.getElementById('reset-font');
+    const rootBody = document.documentElement;
+
+    // 监听拖动
+    fontSlider.addEventListener('input', (e) => {
+        rootBody.style.setProperty('--base-font-size', e.target.value + 'px');
+    });
+
+    // 归零逻辑
+    resetBtn.addEventListener('click', () => {
+        const defaultVal = 15.5;
+        fontSlider.value = defaultVal;
+        rootBody.style.setProperty('--base-font-size', defaultVal + 'px');
+    });
+</script>

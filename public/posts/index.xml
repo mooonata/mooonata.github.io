@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 林间</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 林间</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Apr 2026 16:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/rhythm-geometry-notes/</link>
+      <pubDate>Wed, 15 Apr 2026 16:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/rhythm-geometry-notes/</guid>
+      <description>&lt;p&gt;这是基本功能的测试.&lt;/p&gt;
+&lt;p&gt;我们不仅有一个行内公式测试: $x&amp;rsquo; = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}$, 下面还有一个独立的公式测试:&lt;/p&gt;
+&lt;p&gt;$$
+\int_{-\infty}^{\infty} e^{-x^2} \text{d}x = \sqrt{\pi}
+$$&lt;/p&gt;
+&lt;p&gt;Now I want to know what it looks like in English.&lt;/p&gt;
+&lt;p&gt;Он признавал, что газеты печатали много ненужного и преувеличенного, с одною целью — обратить на себя внимание и перекричать других. Он видел, что при этом общем подъёме общества выскочили вперёд и кричали громче других все неудавшиеся и обиженные: главнокомандующие без армий, министры без министерств, журналисты без журналов, начальники партий без партизанов. Он видел, что много тут было легкомысленного и смешного…&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

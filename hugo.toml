@@ -1,0 +1,49 @@
+baseURL = 'https://mooonata.github.io/'
+languageCode = 'zh-cn'
+title = '林间'
+theme = 'PaperMod'
+
+# ====================
+# 全局参数配置
+# ====================
+[params]
+  defaultTheme = "auto" # 自动切换明暗模式
+
+  # 开启 Profile 模式 (居中排版的个人主页)
+  [params.profileMode]
+    enabled = true
+    title = "林间"
+    subtitle = "莫听传林打叶声, 何妨吟啸且徐行. "
+
+    # 主页中央的快捷按钮
+    [[params.profileMode.buttons]]
+      name = "随笔"
+      url = "/posts/"
+
+    [[params.profileMode.buttons]]
+      name = "关于我"
+      url = "/about/"
+
+  # 社交媒体图标 (显示在主页头像下方)
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/mooonata"
+
+
+# ====================
+# 顶部导航菜单配置
+# ====================
+[menu]
+  # 1. 首页
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 10
+
+  # 2. 读书笔记 & 博客文章列表
+  [[menu.main]]
+    identifier = "posts"
+    name = "随笔"
+    url = "/posts/"
+    weight = 20
