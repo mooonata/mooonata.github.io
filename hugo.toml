@@ -13,7 +13,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "林间"
-    subtitle = "莫听传林打叶声, 何妨吟啸且徐行. "
+    subtitle = "莫听穿林打叶声, 何妨吟啸且徐行. "
 
     # 主页中央的快捷按钮
     [[params.profileMode.buttons]]
