@@ -6,7 +6,7 @@ draft: false
 
 
 
-这是基本功能的测试. 
+这是各种语言展示能力的基本测试. 
 
 我们不仅有一个行内公式测试: $x' = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}$, 下面还有一个独立的公式测试: 
 
@@ -14,26 +14,41 @@ $$
 \int_{-\infty}^{\infty} e^{-x^2} \text{d}x = \sqrt{\pi}
 $$
 
-Now I want to know what it looks like in English. 
+Прощай, свободная стихия!
+В последний раз передо мной
+Ты катишь волны голубые
+И блещешь гордою красой.
 
-Он признавал, что газеты печатали много ненужного и преувеличенного, с одною целью — обратить на себя внимание и перекричать других. Он видел, что при этом общем подъёме общества выскочили вперёд и кричали громче других все неудавшиеся и обиженные: главнокомандующие без армий, министры без министерств, журналисты без журналов, начальники партий без партизанов. Он видел, что много тут было легкомысленного и смешного…
+Как ропот заунывный друга,
+Как зов его в прощальный час,
+Твой грустный шум, твой шум призыва
+Услышал я в последний раз.
 
-庆历四年春，滕子京谪守巴陵郡。越明年，政通人和，百废具兴，乃重修岳阳楼，增其旧制，刻唐贤今人诗赋于其上；属予作文以记之。
+Моей души предел желанный!
+Как часто по брегам твоим
+Бродил я тихий и туманный,
+Заветным умыслом томим!
 
-予观夫巴陵胜状，在洞庭一湖。衔远山，吞长江，浩浩汤汤，横无际涯；朝晖夕阴，气象万千；此岳阳楼之大观，前人之述备矣。然则北通巫峡，南极潇湘，迁客骚人，多会于此，览物之情，得无异乎？
+豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊彩星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云。千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区。童子何知？躬逢胜饯。
 
-若夫霪雨霏霏，连月不开；阴风怒号，浊浪排空；日星隐曜，山岳潜形；商旅不行，樯倾楫摧；薄暮冥冥，虎啸猿啼。登斯楼也，则有去国怀乡，忧谗畏讥，满目萧然，感极而悲者矣。
+时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖𬴂于上路，访风景于崇阿。临帝子之长洲，得天人之旧馆。层台耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即岗峦之体势。
 
-至若春和景明，波澜不惊，上下天光，一碧万顷；沙鸥翔集，锦鳞游泳，岸芷汀兰，郁郁青青。而或长烟一空，皓月千里，浮光跃金，静影沉璧，渔歌互答，此乐何极。登斯楼也，则有心旷神怡，宠辱皆忘，把酒临风，其喜洋洋者矣。
+披绣闼，俯雕甍。山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
 
-嗟夫！予尝求古仁人之心，或异二者之为，何哉？不以物喜，不以己悲。居庙堂之高，则忧其民；处江湖之远，则忧其君。是进亦忧，退亦忧；然则何时而乐耶？其必曰“先天下之忧而忧，后天下之乐而乐”欤！噫！微斯人，吾谁与归？
+Sin embargo, antes de llegar al verso final ya había comprendido que no saldría jamás de ese cuarto, pues estaba previsto que la ciudad de los espejos (o los espejismos) sería arrasada por el viento y desterrada de la memoria de los hombres en el instante en que Aureliano Babilonia acabara de descifrar los pergaminos, y que todo lo escrito en ellos era irrepetible desde siempre y para siempre, porque las estirpes condenadas a cien años de soledad no tenían una segunda oportunidad sobre la tierra.
 
-时六年九月十五日。
+Écoutant, en effet, les cris d'allégresse qui montaient de la ville, Rieux se souvenait que cette allégresse était toujours menacée. Car il savait ce que cette foule en joie ignorait, et qu'on peut lire dans les livres, que le bacille de la peste ne meurt ni ne disparaît jamais, qu'il peut rester pendant des dizaines d'années endormi dans les meubles et le linge, qu'il attend patiemment dans les chambres, les caves, les malles, les mouchoirs et les paperasses, et que, peut-être, le jour viendrait où, pour le malheur et l'enseignement des hommes, la peste réveillerait ses rats et les enverrait mourir dans une cité heureuse.
 
-El Fútbol Club Barcelona (en catalán: Futbol Club Barcelona), conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona (España). Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903.
-
-Tanto el club como sus hinchas reciben el apelativo de «culers» (pronunciado culés), y también, en referencia a sus colores, «azulgranas» o «blaugranas». En su oficina de atención al barcelonista se atiende en los tres idiomas oficiales del club, que son: el catalán, el castellano y el inglés.
-
-La Révolution française (1789-1799) est une période d'intenses bouleversements politiques et sociaux en France et dans ses colonies, ainsi qu'en Europe à la fin du XVIIIe siècle. Traditionnellement, on la fait commencer à l'ouverture des États généraux le 5 mai 1789 et finir au coup d'État de Napoléon Bonaparte le 9 novembre 1799 (18 brumaire de l'an VIII). En ce qui concerne l'histoire de France, elle met fin à l'Ancien Régime, notamment à la monarchie absolue, remplacée par la monarchie constitutionnelle (1789-1792) puis par la Première République.
-
-We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.—That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,—That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.
+To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles,
+And by opposing end them? To die: to sleep;
+No more; and by a sleep to say we end
+The heart-ache and the thousand natural shocks
+That flesh is heir to, 'tis a consummation
+Devoutly to be wish'd. To die, to sleep;
+To sleep: perchance to dream: ay, there's the rub;
+For in that sleep of death what dreams may come
+When we have shuffled off this mortal coil,
+Must give us pause.
