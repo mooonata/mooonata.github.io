@@ -14,20 +14,7 @@ $$
 \int_{-\infty}^{\infty} e^{-x^2} \text{d}x = \sqrt{\pi}
 $$
 
-Прощай, свободная стихия!  
-В последний раз передо мной  
-Ты катишь волны голубые  
-И блещешь гордою красой.
-
-Как ропот заунывный друга,  
-Как зов его в прощальный час,  
-Твой грустный шум, твой шум призыва  
-Услышал я в последний раз.
-
-Моей души предел желанный!  
-Как часто по брегам твоим  
-Бродил я тихий и туманный,  
-Заветным умыслом томим!
+Я человек больной... Я злой человек. Непривлекательный я человек. Я думаю, что у меня болит печень. Впрочем, я ни шиша не смыслю в моей болезни и не знаю наверно, что у меня болит. Я не лечусь и никогда не лечился, хотя медицину и докторов уважаю. Кроме того, я еще и суеверен до крайности; ну, хоть настолько, чтобы уважать медицину. Я человек образованный, чтобы не быть суеверным, но я суеверен. Нет-с, я не хочу лечиться из злости. Вот вы этого, наверно, не изволите понимать. Ну-с, а я понимаю.
 
 豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊彩星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云。千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区。童子何知？躬逢胜饯。
 
@@ -39,16 +26,4 @@ Sin embargo, antes de llegar al verso final ya había comprendido que no saldrí
 
 Écoutant, en effet, les cris d'allégresse qui montaient de la ville, Rieux se souvenait que cette allégresse était toujours menacée. Car il savait ce que cette foule en joie ignorait, et qu'on peut lire dans les livres, que le bacille de la peste ne meurt ni ne disparaît jamais, qu'il peut rester pendant des dizaines d'années endormi dans les meubles et le linge, qu'il attend patiemment dans les chambres, les caves, les malles, les mouchoirs et les paperasses, et que, peut-être, le jour viendrait où, pour le malheur et l'enseignement des hommes, la peste réveillerait ses rats et les enverrait mourir dans une cité heureuse.
 
-To be, or not to be, that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune,
-Or to take arms against a sea of troubles,
-And by opposing end them? To die: to sleep;
-No more; and by a sleep to say we end
-The heart-ache and the thousand natural shocks
-That flesh is heir to, 'tis a consummation
-Devoutly to be wish'd. To die, to sleep;
-To sleep: perchance to dream: ay, there's the rub;
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause.
+The horrible thing about the Two Minutes Hate was not that one was obliged to act a part, but that it was impossible to avoid joining in. Within thirty seconds any pretence was always unnecessary. A hideous ecstasy of fear and vindictiveness, a desire to kill, to torture, to smash faces in with a sledge hammer, seemed to flow through the whole group of people like an electric current, turning one even against one's will into a grimacing, screaming lunatic. And yet the rage that one felt was an abstract, undirected emotion which could be switched from one object to another like the flame of a blowlamp.
