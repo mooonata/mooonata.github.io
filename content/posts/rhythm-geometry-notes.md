@@ -6,7 +6,7 @@ draft: false
 
 
 
-这是基本功能的测试. 首先测试公式. 
+这是基本功能的测试. 
 
 我们不仅有一个行内公式测试: $x' = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}$, 下面还有一个独立的公式测试: 
 
@@ -37,3 +37,5 @@ Tanto el club como sus hinchas reciben el apelativo de «culers» (pronunciado c
 La Révolution française (1789-1799) est une période d'intenses bouleversements politiques et sociaux en France et dans ses colonies, ainsi qu'en Europe à la fin du XVIIIe siècle. Traditionnellement, on la fait commencer à l'ouverture des États généraux le 5 mai 1789 et finir au coup d'État de Napoléon Bonaparte le 9 novembre 1799 (18 brumaire de l'an VIII). En ce qui concerne l'histoire de France, elle met fin à l'Ancien Régime, notamment à la monarchie absolue, remplacée par la monarchie constitutionnelle (1789-1792) puis par la Première République.
 
 We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.—That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,—That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.
+
+三楼的看法教师劳动纠纷扣税的士大夫士大夫使得发
