@@ -33,3 +33,5 @@ Now I want to know what it looks like in English.
 El Fútbol Club Barcelona (en catalán: Futbol Club Barcelona), conocido popularmente como Barça, es una entidad polideportiva con sede en Barcelona (España). Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903.
 
 Tanto el club como sus hinchas reciben el apelativo de «culers» (pronunciado culés), y también, en referencia a sus colores, «azulgranas» o «blaugranas». En su oficina de atención al barcelonista se atiende en los tres idiomas oficiales del club, que son: el catalán, el castellano y el inglés.
+
+La Révolution française (1789-1799) est une période d'intenses bouleversements politiques et sociaux en France et dans ses colonies, ainsi qu'en Europe à la fin du XVIIIe siècle. Traditionnellement, on la fait commencer à l'ouverture des États généraux le 5 mai 1789 et finir au coup d'État de Napoléon Bonaparte le 9 novembre 1799 (18 brumaire de l'an VIII). En ce qui concerne l'histoire de France, elle met fin à l'Ancien Régime, notamment à la monarchie absolue, remplacée par la monarchie constitutionnelle (1789-1792) puis par la Première République.
