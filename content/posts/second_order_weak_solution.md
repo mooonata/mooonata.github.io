@@ -1,6 +1,6 @@
 ---
 title: "The Existence and Uniqueness of the Weak Solutions to Second Order Parabolic and Hyperbolic Partial Differential Equations"
-date: 2026-05-06T16:30:00+08:00
+date: 2026-05-05T16:30:00+08:00
 draft: false
 ---
 
@@ -10,3 +10,4 @@ Galerkin approximation
 ---
 The key technique we apply here is the Galerkin approximation. We consider the linear differential operator $L=-\nabla$. 
 
+sd sd fsd sdf sdf sdf adas
