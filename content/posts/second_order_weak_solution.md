@@ -8,3 +8,5 @@ In this post, we want to discuss about the existence and uniqueness of the weak 
 
 Galerkin approximation
 ---
+The key technique we apply here is the Galerkin approximation. We consider the linear differential operator $L=-\nabla$. 
+
