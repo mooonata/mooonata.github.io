@@ -8,5 +8,5 @@ In this post, we want to discuss about the existence and uniqueness of the weak 
 
 Galerkin approximation
 ---
-The key technique we apply here is the Galerkin approximation. We consider the linear differential operator \(L=-\Delta\). Through the discussion about the eigenvalues and eigenfunctions, we can select a countable sequence of functions \(\left\{w_k\right\}^{\infty}_{k=1}\) such that \(\left\{w_k\right\}^{\infty}_{k=1}\) is a orthogonal basis of \(H^1_0\left(U\right)\) and a orthonormal basis of \(L^2\left(U\right)\). 
+The key technique we apply here is the Galerkin approximation. We consider the linear differential operator $L=-\Delta$. Through the discussion about the eigenvalues and eigenfunctions, we can select a countable sequence of functions ${\left\{w_k\right\}}_{k=1}^{\infty}$ such that ${\left\{w_k\right\}}_{k=1}^{\infty}$ is an orthogonal basis of $H^1_0\left(U\right)$ and an orthonormal basis of $L^2\left(U\right)$. 
 
