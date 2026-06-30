@@ -8,4 +8,6 @@ We want to talk about distorted Fourier Transform (dFT) in this post. This someh
 
 The results mainly come from "On th 1d Cubic NLS with a Non-generic Potential" by Gong Chen and Fabio Pusateri. 
 
-The basis of dFT includes Jost functions and basic spectral theory. The Jost functions $\psi_+\left(x,k\right)$ and $\psi_-\left(x,k\right)$ are defined as solutions to $$H\psi_{\pm}\left(x,k\right)=\left(-\partial_{xx}+V\right)\psi_{\pm}\left(x,k\right)=k^2\psi_{\pm}\left(x,k\right). $$
+The basis of dFT includes Jost functions and basic spectral theory. The Jost functions $\psi_+\left(x,k\right)$ and $\psi_-\left(x,k\right)$ are defined as solutions to $$H\psi_{\pm}\left(x,k\right)=\left(-\partial_{xx}+V\right)\psi_{\pm}\left(x,k\right)=k^2\psi_{\pm}\left(x,k\right)$$ such that $$\lim_{x\rightarrow +\infty}\left|\text{e}^{-\text{i}kx}\psi_{+}\left(x,k\right)-1\right|=0, \quad \lim_{x\rightarrow -\infty}\left|\text{e}^{\text{i}kx}\psi_{-}\left(x,k\right)-1\right|=0. $$
+
+We let $m_{\pm}\left(x,k\right)=\text{e}^{\mp\text{i}kx}\psi_{\pm}\left(x,k\right)$. It is well known that for fixed $x$, $m_{\pm}$ is analytic in $k$ for $\mathscr{I}k>0$
