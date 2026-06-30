@@ -12,4 +12,4 @@ The basis of dFT includes Jost functions and basic spectral theory. The Jost fun
 
 We let $m_{\pm}\left(x,k\right)=\text{e}^{\mp\text{i}kx}\psi_{\pm}\left(x,k\right)$. It is well known that for fixed $x$, $m_{\pm}$ is analytic in $k$ for $\mathscr{I}k>0$ and is continuous up to $\mathscr{I}k\ge0$. 
 
-We define $$\mathscr{W}^{s}_{+}\left(x\right)=\int^{\infty}_{x}\left<y\right>^s\left|V(y)\right|\text{d}y, \quad \mathscr{W}^{s}_{-}\left(x\right)=\int^x_{-\infty}\left<y\right>^s\left|V(y)\right|\text{d}y. $$ If we know that $V$ decays fast enough, $\mathscr{W}^{s}_{\pm}$ also decays as $x\rightarrow \pm \infty$ respectively. 
+We define $$\mathscr{W}^{s}_{+}\left(x\right)=\int^{\infty}_{x}\left<y\right>^s\left|V(y)\right|\text{d}y, \quad \mathscr{W}^{s}_{-}\left(x\right)=\int^{x}_{-\infty}\left<y\right>^s\left|V(y)\right|\text{d}y. $$ If we know that $V$ decays fast enough, $\mathscr{W}^{s}_{\pm}$ also decays as $x\rightarrow \pm \infty$ respectively. 
